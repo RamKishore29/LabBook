@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author rbirada
+ *
+ */
+module LabBook {
+}
